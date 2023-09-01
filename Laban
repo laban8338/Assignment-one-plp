@@ -1,0 +1,8 @@
+void main () {
+    String name = "Laban Mutwiwa";
+    String school = "Zetech University";
+    String city = "Ruiru";
+    String country = "Kenya";
+
+print("My name is $name. I attend $school in $city,$country.);
+}
