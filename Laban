@@ -4,5 +4,5 @@ void main () {
     String city = "Ruiru";
     String country = "Kenya";
 
-print("My name is $name. I attend $school in $city,$country.);
+print("My name is $name. I attend $school in $city,$country.");
 }
